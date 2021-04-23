@@ -1,0 +1,6 @@
+set WshShell = CreateObject("WScript.Shell")
+x=inputbox("who do u wanna roast?")
+g=msgbox("u wanna roast them hard?",0,"Roaster 3000")
+g=msgbox("ok boomer",0,"Roaster 3000")
+g=msgbox("do u know the difference between fortnite and " + x,0,"Roaster 3000")
+g=msgbox("fortnite characters dont take 3 days to move",0,"Mission completed, respect++")
